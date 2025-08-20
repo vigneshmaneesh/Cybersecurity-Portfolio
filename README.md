@@ -14,7 +14,7 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
   - Evaluated **security improvements** (resistance to phishing, credential theft, brute-force attacks).  
   - Reviewed case studies of **password-related breaches** in healthcare and critical services.  
 - **Skills Demonstrated:** Cybersecurity research, authentication systems, usability analysis, academic writing.  
-- 📄 [Read the full paper]([docs/Passkeys-Research.pdf](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Impact%20of%20Cybersecurity%20Breaches%20on%20Businesses.pdf))  
+- 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Impact%20of%20Cybersecurity%20Breaches%20on%20Businesses.pdf)  
 
 ---
 

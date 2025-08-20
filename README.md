@@ -25,7 +25,7 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
   - Analysed financial losses through **regulatory fines, stock price drops, and shareholder wealth loss**.  
   - Explored **reputational damage** from negative media coverage, customer trust erosion, and stakeholder backlash.  
   - Recommended **best practices**: ISO 27001/27002/22301 alignment, employee training, RBAC, and regular audits.  
-- **Skills Demonstrated:** Business impact analysis, IT governance, ISO standards exposure, risk management research.  
+- **Skills Demonstrated:** Business impact analysis, IT governance, risk management research.  
 - 📄 [Read the full paper]([docs/Cyber-Incidents-Research.pdf](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf)  
 
 ## 📬 Contact  

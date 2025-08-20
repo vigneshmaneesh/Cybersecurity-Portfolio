@@ -1,6 +1,6 @@
 # Cybersecurity Research Portfolio  
 
-This repository showcases selected research projects I completed during my Pre-Masters Programme at the University of Strathclyde.  
+This repository showcases research projects I wrote during my time at the University of Strathclyde.  
 These works highlight my interest in cybersecurity, IT governance, and the impact of cyber incidents on organisations.  
 
 ---
@@ -42,5 +42,5 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
 ## 📬 Contact  
 **Vignesh Kumar**  
 MSc Cybersecurity Student | University of Strathclyde  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 vigneshmaneesh@gmail.com  
+🔗 www.linkedin.com/in/vigneshmaneesh

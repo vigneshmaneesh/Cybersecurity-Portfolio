@@ -3,7 +3,7 @@
 This repository showcases research projects I wrote during my time at the University of Strathclyde.  
 These works highlight my interest in cybersecurity, IT governance, and the impact of cyber incidents on organisations.  
 
----
+----
 
 ## 📑 Projects  
 
@@ -16,7 +16,7 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
 - **Skills Demonstrated:** Cybersecurity research, authentication systems, usability analysis, academic writing.  
 - 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Impact%20of%20Cybersecurity%20Breaches%20on%20Businesses.pdf)  
 
----
+----
 
 ### 2. Impact of Cybersecurity Breaches on Businesses: Financial Losses and Reputational Damages  
 - **Focus:** Investigated how cyberattacks affect organisations financially and reputationally.  

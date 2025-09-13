@@ -1,6 +1,6 @@
-# Cybersecurity Research 
+# Cybersecurity Portfolio
 
-This repository showcases research projects I wrote during my time at the University of Strathclyde.  
+This repository showcases projects I have completed during my time at the University of Strathclyde.  
 These works highlight my interest in cybersecurity, IT governance, and the impact of cyber incidents on organisations.  
 
 ----
@@ -26,7 +26,15 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
   - Explored **reputational damage** from negative media coverage, customer trust erosion, and stakeholder backlash.  
   - Recommended **best practices**: ISO 27001/27002/22301 alignment, employee training, RBAC, and regular audits.  
 - **Skills Demonstrated:** Business impact analysis, IT governance, risk management research.  
-- 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf)  
+- 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf)
+
+### 3. Impact of Cybersecurity Breaches on Businesses: Financial Losses and Reputational Damages  
+- **Focus:** Conducted an Internal Audit of a fictional Toy Company, Botium Toys.  
+- **Key Points:**  
+  - Reviewed **assets of Botium Toys and their controls and compliance practices**.  
+  - Recommended **best practices** such as implementing least-privilege access system, data encryption, strong password policies, a disaster recovery plan, separation of duties and a regular maintenance schedule to mitigate risks and protect against cyber threats.  
+- **Skills Demonstrated:** IT governance, Auditing.  
+- 📄 [Read the full paper]([https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit))  
 
 ## 📬 Contact  
 **Vignesh Kumar**  

@@ -34,7 +34,7 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
   - Reviewed **assets of Botium Toys and their controls and compliance practices**.  
   - Recommended **best practices** such as implementing least-privilege access system, data encryption, strong password policies, a disaster recovery plan, separation of duties and a regular maintenance schedule to mitigate risks and protect against cyber threats.  
 - **Skills Demonstrated:** IT governance, Auditing.  
-- 📄 [Read the full paper]([https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit))  
+- 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit)  
 
 ## 📬 Contact  
 **Vignesh Kumar**  

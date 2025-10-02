@@ -39,5 +39,4 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
 ## 📬 Contact  
 **Vignesh Kumar**  
 MSc Cybersecurity Student | University of Strathclyde  
-📧 vigneshmaneesh@gmail.com  
 🔗 www.linkedin.com/in/vigneshmaneesh

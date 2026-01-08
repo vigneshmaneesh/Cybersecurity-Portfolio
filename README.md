@@ -16,8 +16,6 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
 - **Skills Demonstrated:** Cybersecurity research, authentication systems, usability analysis, academic writing.  
 - 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Impact%20of%20Cybersecurity%20Breaches%20on%20Businesses.pdf)  
 
-----
-
 ### 2. Impact of Cybersecurity Breaches on Businesses: Financial Losses and Reputational Damages  
 - **Focus:** Investigated how cyberattacks affect organisations financially and reputationally.  
 - **Key Points:**  
@@ -28,13 +26,13 @@ These works highlight my interest in cybersecurity, IT governance, and the impac
 - **Skills Demonstrated:** Business impact analysis, IT governance, risk management research.  
 - 📄 [Read the full paper](https://github.com/vigneshmaneesh/Research-Projects-Cybersecurity/blob/main/docs/Kumar%2C%20Vignesh%20-%20Viability%20of%20Passkeys.pdf)
 
-### 3. Impact of Cybersecurity Breaches on Businesses: Financial Losses and Reputational Damages  
+### 3. Internal Audit of a Fictional Toy Company  
 - **Focus:** Conducted an Internal Audit of a fictional Toy Company, Botium Toys.  
 - **Key Points:**  
   - Reviewed **assets of Botium Toys and their controls and compliance practices**.  
   - Recommended **best practices** such as implementing least-privilege access system, data encryption, strong password policies, a disaster recovery plan, separation of duties and a regular maintenance schedule to mitigate risks and protect against cyber threats.  
 - **Skills Demonstrated:** IT governance, Auditing.  
-- 📄 [View Project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit)  
+- 📄 [View Project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit)
 
 ## 📬 Contact  
 **Vignesh Kumar**  

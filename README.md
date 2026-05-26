@@ -26,15 +26,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 - **Skills Demonstrated:** Business impact analysis, IT governance, cyber risk management research.  
 - 📄 [Read the full paper](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/blob/main/Research%20Projects/Kumar%2C%20Vignesh%20-%20Impact%20of%20Cybersecurity%20Breaches%20on%20Businesses.pdf)
 
-### 3. Internal Audit of a Fictional Toy Company  
-- **Focus:** Conducted an internal audit of a fictional toy company, Botium Toys.  
-- **Key Points:**  
-  - Reviewed **assets, controls, and compliance practices**.  
-  - Recommended improvements including **least-privilege access, data encryption, strong password policies, disaster recovery planning, separation of duties, and regular maintenance schedules**.  
-- **Skills Demonstrated:** IT governance, internal auditing, control assessment, risk mitigation.  
-- 📄 [View project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Conducting%20an%20Internal%20Audit)
-
-### 4. Vulnerability Assessment and Security Testing Lab  
+### 3. Vulnerability Assessment and Security Testing Lab  
 - **Focus:** Conducted a controlled vulnerability assessment of a Metasploitable 2 virtual machine using Kali Linux.  
 - **Key Points:**  
   - Performed **network connectivity testing, Nmap service/version scanning, full port scanning, and vulnerability scanning**.  
@@ -46,7 +38,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 - **Skills Demonstrated:** Vulnerability assessment, Linux security, exploitation validation, privilege escalation concepts, password auditing, technical reporting.  
 - 📄 [View project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Vulnerability%20Assessment%20Metasploitable)
 
-### 5. Web Application Security Testing Lab  
+### 4. Web Application Security Testing Lab  
 - **Focus:** Analysed and demonstrated common web application vulnerabilities in controlled lab environments.  
 - **Key Points:**  
   - Tested **Cross-Site Request Forgery (CSRF)** and analysed weak CSRF token validation.  

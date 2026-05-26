@@ -44,7 +44,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
   - Identified alternative exploitation paths involving **Java RMI and UnrealIRCD**.  
 - **Tools Used:** Kali Linux, Metasploitable 2, Nmap, Metasploit Framework, Netcat, John the Ripper, Apache, Exploit-DB.  
 - **Skills Demonstrated:** Vulnerability assessment, Linux security, exploitation validation, privilege escalation concepts, password auditing, technical reporting.  
-- 📄 [View project here](Placeholder-link)
+- 📄 [View project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Vulnerability%20Assessment%20Metasploitable)
 
 ### 5. Web Application Security Testing Lab  
 - **Focus:** Analysed and demonstrated common web application vulnerabilities in controlled lab environments.  
@@ -56,7 +56,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
   - Documented business impact and defensive recommendations including **secure token handling, allowlisting, server-side access control enforcement, input validation, and defence-in-depth**.  
 - **Tools Used:** Burp Suite, PortSwigger Web Security Academy, DVWA, Kali Linux.  
 - **Skills Demonstrated:** Web application security testing, HTTP request analysis, Burp Suite, access control testing, input validation testing, security documentation.  
-- 📄 [View project here](Placeholder-link)
+- 📄 [View project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Web%20Application%20Security%20Testing)
 
 ----
 

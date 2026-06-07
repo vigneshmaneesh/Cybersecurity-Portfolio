@@ -52,15 +52,15 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 
 - ### 5. Chinese Wall Security Policy – JavaScript Prototype
 
-* Focus: Built a small JavaScript prototype to model the basic decision logic behind the Brewer-Nash Chinese Wall security policy.
-* Key Points:
+- **Focus:** Built a small JavaScript prototype to model the basic decision logic behind the Brewer-Nash Chinese Wall security policy.
+- **Key Points:**
   * Modelled users, datasets, conflict-of-interest classes, and access history using JSON files.
   * Implemented read decisions based on whether a user had previously accessed a conflicting dataset.
   * Added a simplified write-blocking check to simulate write revocation behaviour.
   * Used this as preparation for a larger MSc dissertation project involving Solid/CSS and dynamic access-control enforcement.
-* Tools Used: JavaScript, Node.js, JSON, Git.
-* **Skills Demonstrated**: Access control modelling, security policy logic, JavaScript programming, prototype development.
-* [View project here](https://github.com/vigneshmaneesh/ChineseWall-JavaScript)
+- **Tools Used**: JavaScript, Node.js, JSON, Git.
+- **Skills Demonstrated**: Access control modelling, security policy logic, JavaScript programming, prototype development.
+- [View project here](https://github.com/vigneshmaneesh/ChineseWall-JavaScript)
 
 ----
 

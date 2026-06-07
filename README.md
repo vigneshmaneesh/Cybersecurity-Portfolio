@@ -59,7 +59,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
   * Added a simplified write-blocking check to simulate write revocation behaviour.
   * Used this as preparation for a larger MSc dissertation project involving Solid/CSS and dynamic access-control enforcement.
 * Tools Used: JavaScript, Node.js, JSON, Git.
-* Skills Demonstrated: Access control modelling, security policy logic, JavaScript programming, prototype development.
+* **Skills Demonstrated**: Access control modelling, security policy logic, JavaScript programming, prototype development.
 * [View project here](https://github.com/vigneshmaneesh/ChineseWall-JavaScript)
 
 ----

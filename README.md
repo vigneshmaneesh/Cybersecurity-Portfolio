@@ -50,7 +50,7 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 - **Skills Demonstrated:** Web application security testing, HTTP request analysis, Burp Suite, access control testing, input validation testing, security documentation.  
 - [View project here](https://github.com/vigneshmaneesh/Cybersecurity-Portfolio/tree/main/Web%20Application%20Security%20Testing)
 
-- ### 5. Chinese Wall Security Policy – JavaScript Prototype
+### 5. Chinese Wall Security Policy – JavaScript Prototype
 
 - **Focus:** Built a small JavaScript prototype to model the basic decision logic behind the Brewer-Nash Chinese Wall security policy.
 - **Key Points:**

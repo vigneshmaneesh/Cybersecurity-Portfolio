@@ -62,6 +62,17 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 - **Skills Demonstrated**: Access control modelling, security policy logic, JavaScript programming, prototype development.
 - [View project here](https://github.com/vigneshmaneesh/ChineseWall-JavaScript)
 
+### 6. Chinese Wall Access Control for Solid Pods (MSc Dissertation)
+
+- **Focus:** Built a TypeScript application implementing the Brewer-Nash Chinese Wall security policy for Solid Pod datasets.
+- **Key Points:**
+  * Implemented history-based read and write decisions using conflict-of-interest classes and access history.
+  * Integrated policy enforcement with Community Solid Server and dynamically updated Solid Access Control Policy (ACP) resources.
+  * Wrote unit tests for policy rules and ACP generation, plus authenticated HTTP evaluations of allowed and denied requests, multiple users, and concurrent access attempts.
+- **Tools Used:** TypeScript, Node.js, Community Solid Server, Solid ACP, Vitest.
+- **Skills Demonstrated:** Access control, security policy implementation, TypeScript development, software testing.
+- [View project source](https://github.com/vigneshmaneesh/Solid-Cwall)
+
 ----
 
 ## 🛠️ Skills Highlighted Across Projects
@@ -83,13 +94,15 @@ The projects highlight my interest in cybersecurity, security testing, IT govern
 - Access Control
 - Security Policy Modelling
 - JavaScript
+- TypeScript
 - Node.js
+- Software Testing
 
 ----
 
 ## 📬 Contact  
 
 **Vignesh Maneesh Kumar**  
-MSc Cyber Security Student | University of Strathclyde  
+MSc Cyber Security with Merit | University of Strathclyde
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vigneshmaneesh)
